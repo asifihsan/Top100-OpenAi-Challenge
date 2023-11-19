@@ -35,6 +35,6 @@ To use the cookbook in development server, follow the specific instructions.
 You have to give API KEY mentioned in code.
 
 ## Conclusion
-The Cook Book is a webapp that help every people to cook and know the incredients. It help to reach these things to all students.
+The Cook Book is a webapp that help every people to cook and know the incredients. It help to save time and cook good food.
 
 Create Design Deploy🚀.
