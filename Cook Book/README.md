@@ -30,9 +30,7 @@ To use the cookbook in development server, follow the specific instructions.
 - Clone or download the project repository.
      ```bash
          git clone https://github.com/asifihsan/Top100-OpenAi-Challenge/tree/main/Cook%20Book
-- in terminal
-      ```bash
-          python app.py
+- in terminal python app.py
 ## Note
 You have to give API KEY mentioned in code.
 
